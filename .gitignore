@@ -1,0 +1,7 @@
+service-credentials.json
+*.json
+venv/
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+__pycache__/
+*.pyc
